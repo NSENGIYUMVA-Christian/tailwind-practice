@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tailwindcss -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSENGIYUMVA-Christian/tailwind-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSENGIYUMVA-Christian/tailwind-practice/issues"
+  },
+  "homepage": "https://github.com/NSENGIYUMVA-Christian/tailwind-practice#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
